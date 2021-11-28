@@ -43,3 +43,7 @@ Ana dizinde environment dosyasının oluşturulup içine movie api key eklenmesi
 ```
 REACT_APP_API_KEY=key_will_be_pasted_here
 ```
+
+## 6. Styled Components İçin Eklenti Kurulması
+
+- VsCode üzerinden 'vscode-styled-components' eklentisinin kurulması gerekmektedir.
